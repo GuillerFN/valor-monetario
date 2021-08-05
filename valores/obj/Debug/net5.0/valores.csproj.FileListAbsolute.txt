@@ -1,0 +1,16 @@
+C:\workspace\valor-monetario\valores\bin\Debug\net5.0\valores.exe
+C:\workspace\valor-monetario\valores\bin\Debug\net5.0\valores.deps.json
+C:\workspace\valor-monetario\valores\bin\Debug\net5.0\valores.runtimeconfig.json
+C:\workspace\valor-monetario\valores\bin\Debug\net5.0\valores.runtimeconfig.dev.json
+C:\workspace\valor-monetario\valores\bin\Debug\net5.0\valores.dll
+C:\workspace\valor-monetario\valores\bin\Debug\net5.0\ref\valores.dll
+C:\workspace\valor-monetario\valores\bin\Debug\net5.0\valores.pdb
+C:\workspace\valor-monetario\valores\obj\Debug\net5.0\valores.csprojAssemblyReference.cache
+C:\workspace\valor-monetario\valores\obj\Debug\net5.0\valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\valor-monetario\valores\obj\Debug\net5.0\valores.AssemblyInfoInputs.cache
+C:\workspace\valor-monetario\valores\obj\Debug\net5.0\valores.AssemblyInfo.cs
+C:\workspace\valor-monetario\valores\obj\Debug\net5.0\valores.csproj.CoreCompileInputs.cache
+C:\workspace\valor-monetario\valores\obj\Debug\net5.0\valores.dll
+C:\workspace\valor-monetario\valores\obj\Debug\net5.0\ref\valores.dll
+C:\workspace\valor-monetario\valores\obj\Debug\net5.0\valores.pdb
+C:\workspace\valor-monetario\valores\obj\Debug\net5.0\valores.genruntimeconfig.cache
